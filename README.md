@@ -1,10 +1,12 @@
 # UE5-Level-Design-Practice
 
-> A simple level design practice based on free assets. Built with Unreal Engine 5.
+> A simple level design practice only focus on building the environment based on free assets. Built with Unreal Engine 5.
 
 ---
 
 ## 🎬 Level Design Showcase
+
+![UE5 Level Design Screenshot](https://i.ibb.co/SwSPSgH5/2026-06-24-102828.png
 
 You can preview the level walkthrough via either of the following options:
 
