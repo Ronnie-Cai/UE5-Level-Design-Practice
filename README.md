@@ -6,7 +6,9 @@
 
 ## 🎬 Level Design Showcase
 
-![UE5 Level Design Screenshot](https://i.ibb.co/SwSPSgH5/2026-06-24-102828.png
+<p align="center">
+  <img src="https://i.ibb.co/SwSPSgH5/2026-06-24-102828.png" alt="UE5 Level Design Screenshot" width="100%">
+</p>
 
 You can preview the level walkthrough via either of the following options:
 
